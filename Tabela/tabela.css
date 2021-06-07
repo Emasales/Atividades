@@ -1,0 +1,54 @@
+.tabela{
+    margin-left: 5%;
+    color: rgb(230, 223, 223);
+
+}
+
+.cabeçalho{
+    margin-left: 5%;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sub{
+    margin-left: 17%;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 50%;
+    
+}
+.primeira-linha{
+    font-style: italic;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+.segunda-linha{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.col{
+    font-style: italic;
+    font-weight: bold;
+    background-color: pink;
+    color: black;
+}
+
+.nota{
+    background-color: yellow;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.final{
+    background-color: red;
+    color: black;
+    font-weight: bold;
+}
+.quinta-linha{
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+
+}
