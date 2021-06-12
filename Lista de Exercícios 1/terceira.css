@@ -1,0 +1,26 @@
+.index{
+    background-color: rgb(209, 206, 206);
+}
+.title{
+    color: blue;
+    text-align: center;
+}
+.index img{
+    width: 40%;
+    align-items: center;
+    margin-left: 30%;
+
+}
+.text{
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.autor{
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
