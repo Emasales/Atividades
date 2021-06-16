@@ -1,0 +1,39 @@
+.index{
+    background-image: url(hospital.jpg);
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    
+}
+h1{
+    border: thick  groove rgb(70, 70, 206) ;
+    border-radius: 0px 20px 0px 20px;
+    background-color: #b6e6d6;
+   width: 80%;
+   height: 50px;
+   margin-left: 10%;
+}
+   
+
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+.link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+.regra{
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+  
